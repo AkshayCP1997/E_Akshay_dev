@@ -26,5 +26,6 @@ define root view entity ZDD_CM_MASTER
       credit_control_area  ,
       cca_description      ,
       credit_segment       ,
-      cs_description       
+      cs_description  ,
+       testing fork 
 }
